@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sufyan mamji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sufyan mamji" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sufyan-mamji-b659b224a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sufyan mamji" height="30" width="40" /></a>
 <a href="https://fb.com/sufyan mamji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sufyan mamji" height="30" width="40" /></a>
 <a href="https://instagram.com/sssuffyaannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sssuffyaannn" height="30" width="40" /></a>
 </p>
