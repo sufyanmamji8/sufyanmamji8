@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sufyan Mamji</h1>
-<h3 align="center">A passionate Frontend Developer from Karachi</h3>
+<h3 align="center">A passionate React-Next JS Developer from Karachi</h3>
   <img align="right" src="https://tse4.mm.bing.net/th?id=OIP.XPFvMjs9ACIoKZExoIhvWAHaE8&pid=Api&P=0&h=220"  alt="coding pic">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufyanmamji8&label=Profile%20views&color=0e75b6&style=flat" alt="sufyanmamji8" /> </p>
